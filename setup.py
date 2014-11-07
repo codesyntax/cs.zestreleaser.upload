@@ -7,7 +7,7 @@ setup(
     name='cs.zestreleaser.upload',
     version=version,
     description="zest.releaser plugin to enter from the command-line the destination of the upload",
-    long_description=open("README.txt").read() + "\n" +
+    long_description=open("README.rst").read() + "\n" +
                      open(os.path.join("docs", "HISTORY.txt")).read(),
     # Get more strings from
     # http://pypi.python.org/pypi?:action=list_classifiers
