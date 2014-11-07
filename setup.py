@@ -44,11 +44,10 @@ setup(
     zip_safe=False,
     install_requires=[
         'setuptools',
-        # -*- Extra requirements: -*-
         'zest.releaser',
     ],
     entry_points={
         'zest.releaser.releaser.after':
-            ['upload=gocept.zestreleaser.customupload.upload:upload',
-            'upload_doc=gocept.zestreleaser.customupload.doc:upload']},
+            ['csupload=cs.zestreleaser.upload.upload:upload',
+            ]},
       )
