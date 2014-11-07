@@ -1,5 +1,8 @@
-# Copyright (c) 2010 gocept gmbh & co. kg
-# See also LICENSE.txt
+# This product reuses and redistributes code from Gocept
+# with Copyright (c) 2010 gocept gmbh & co. kg
+# According to the ZPL license of that code this copyright notice is retained
+# Original repository of that code is at:
+# https://code.gocept.com/hg/public/gocept.zestreleaser.customupload/
 
 import ConfigParser
 import glob
