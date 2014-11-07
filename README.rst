@@ -22,7 +22,7 @@ script will finish there.
 This option is useful if you have a folder where you have one folder per project/customer
 in the same place.
 
-If the option ``_default_with_input`` is not set and ``_default_`` is set, the script will
+If the option ``_default_with_input_`` is not set and ``_default_`` is set, the script will
 upload the egg to that destination. This is usefull as a default destination of your eggs.
 
 
