@@ -45,6 +45,7 @@ setup(
     install_requires=[
         'setuptools',
         'zest.releaser',
+        'six',
     ],
     entry_points={
         'zest.releaser.releaser.after':
